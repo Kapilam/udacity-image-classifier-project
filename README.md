@@ -16,5 +16,5 @@ The purpose of this project is to train an image classifier to recognize differe
 The dataset for this project originates from the [102 Category Flower Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) (Nilsback, and Zisserman, 2008)
 
 ## 5. References ##
-Nilsback, M-E. and Zisserman, A., [Automated flower classification over a large number of classes(http://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/nilsback08.pdf)
+Nilsback, M-E. and Zisserman, A., [Automated flower classification over a large number of classes](http://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/nilsback08.pdf)
 Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (2008)
